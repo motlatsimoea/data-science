@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Data Science Projects
 
 This repository contains several data science projects:
@@ -56,3 +57,7 @@ Link to data: https://www.kaggle.com/datasets/arjuntejaswi/plant-village
 - A simple API has been created using FastAPI.
 - A simple frontend using ReactJS will be added to make this an end-to-end project.
 
+=======
+# data-science
+This is a repo for my data science projects
+>>>>>>> 25bdbefb49bf2cba170903d2e683a81d4350a23a
