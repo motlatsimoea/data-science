@@ -9,6 +9,8 @@ In this project, sentiment analysis was performed on a dataset containing review
 - nltk has the ability to perform sentiment analysis. It will provide a rating of whether a stamement is positive, negative or neutral;
 - RoBERTa is a pretrained model used for sentimental analysis.
 
+Link to dataset: https://www.kaggle.com/datasets/snap/amazon-fine-food-reviews
+
 ## Fake or Real News Detection using Gensim and spaCy
 
 spaCy and Gensim are open-source Python libraries used in Natural Language Processing (NLP). This project involved training machine learning models on natural language text using these libraries to detect fake or real news.
@@ -20,6 +22,8 @@ A basic chatbot for a restaurant was built using Dialogflow. The chatbot allows 
 ## Tomato Leaf Disease Classification using Convolutional Neural Network (CNN)
 
 This project involves classifying a dataset of tomato leaves with different diseases into one of five classes using a CNN built in TensorFlow.
+
+Link to data: https://www.kaggle.com/datasets/arjuntejaswi/plant-village
 
 ### Exploring the Data
 
