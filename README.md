@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Data Science Projects
 
 This repository contains several data science projects:
